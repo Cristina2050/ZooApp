@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "sWAiwOmzHp3MUNY8DJ2WjrL5goBttJa7PP2hIkSgbpLm/1CIinCD7TQVZBzYs4lcBTNXArrY4633iak+XkIvIg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kruger\\Documents\\Cristina\\ZooApp\\DTO\\DTO.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kruger\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\kruger\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\kruger\\.nuget\\packages\\system.componentmodel.annotations\\4.7.0\\system.componentmodel.annotations.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,9 @@
+C:\Users\kruger\Documents\Cristina\ZooApp\DTO\bin\Debug\netstandard2.0\DTO.deps.json
+C:\Users\kruger\Documents\Cristina\ZooApp\DTO\bin\Debug\netstandard2.0\DTO.dll
+C:\Users\kruger\Documents\Cristina\ZooApp\DTO\bin\Debug\netstandard2.0\DTO.pdb
+C:\Users\kruger\Documents\Cristina\ZooApp\DTO\obj\Debug\netstandard2.0\DTO.csprojAssemblyReference.cache
+C:\Users\kruger\Documents\Cristina\ZooApp\DTO\obj\Debug\netstandard2.0\DTO.AssemblyInfoInputs.cache
+C:\Users\kruger\Documents\Cristina\ZooApp\DTO\obj\Debug\netstandard2.0\DTO.AssemblyInfo.cs
+C:\Users\kruger\Documents\Cristina\ZooApp\DTO\obj\Debug\netstandard2.0\DTO.csproj.CoreCompileInputs.cache
+C:\Users\kruger\Documents\Cristina\ZooApp\DTO\obj\Debug\netstandard2.0\DTO.dll
+C:\Users\kruger\Documents\Cristina\ZooApp\DTO\obj\Debug\netstandard2.0\DTO.pdb

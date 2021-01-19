@@ -1,0 +1,9 @@
+C:\Users\kruger\Documents\Cristina\ZooApp\Utils\bin\Debug\netstandard2.0\Utils.deps.json
+C:\Users\kruger\Documents\Cristina\ZooApp\Utils\bin\Debug\netstandard2.0\Utils.dll
+C:\Users\kruger\Documents\Cristina\ZooApp\Utils\bin\Debug\netstandard2.0\Utils.pdb
+C:\Users\kruger\Documents\Cristina\ZooApp\Utils\obj\Debug\netstandard2.0\Utils.csprojAssemblyReference.cache
+C:\Users\kruger\Documents\Cristina\ZooApp\Utils\obj\Debug\netstandard2.0\Utils.AssemblyInfoInputs.cache
+C:\Users\kruger\Documents\Cristina\ZooApp\Utils\obj\Debug\netstandard2.0\Utils.AssemblyInfo.cs
+C:\Users\kruger\Documents\Cristina\ZooApp\Utils\obj\Debug\netstandard2.0\Utils.csproj.CoreCompileInputs.cache
+C:\Users\kruger\Documents\Cristina\ZooApp\Utils\obj\Debug\netstandard2.0\Utils.dll
+C:\Users\kruger\Documents\Cristina\ZooApp\Utils\obj\Debug\netstandard2.0\Utils.pdb

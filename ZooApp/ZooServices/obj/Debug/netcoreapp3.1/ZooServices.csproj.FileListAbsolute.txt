@@ -1,0 +1,17 @@
+C:\Users\kruger\Documents\Cristina\ZooApp\ZooServices\bin\Debug\netcoreapp3.1\ZooServices.deps.json
+C:\Users\kruger\Documents\Cristina\ZooApp\ZooServices\bin\Debug\netcoreapp3.1\ZooServices.dll
+C:\Users\kruger\Documents\Cristina\ZooApp\ZooServices\bin\Debug\netcoreapp3.1\ZooServices.pdb
+C:\Users\kruger\Documents\Cristina\ZooApp\ZooServices\obj\Debug\netcoreapp3.1\ZooServices.csprojAssemblyReference.cache
+C:\Users\kruger\Documents\Cristina\ZooApp\ZooServices\obj\Debug\netcoreapp3.1\ZooServices.AssemblyInfoInputs.cache
+C:\Users\kruger\Documents\Cristina\ZooApp\ZooServices\obj\Debug\netcoreapp3.1\ZooServices.AssemblyInfo.cs
+C:\Users\kruger\Documents\Cristina\ZooApp\ZooServices\obj\Debug\netcoreapp3.1\ZooServices.csproj.CoreCompileInputs.cache
+C:\Users\kruger\Documents\Cristina\ZooApp\ZooServices\obj\Debug\netcoreapp3.1\ZooServices.dll
+C:\Users\kruger\Documents\Cristina\ZooApp\ZooServices\obj\Debug\netcoreapp3.1\ZooServices.pdb
+C:\Users\kruger\Documents\Cristina\ZooApp\ZooServices\bin\Debug\netcoreapp3.1\DTO.dll
+C:\Users\kruger\Documents\Cristina\ZooApp\ZooServices\bin\Debug\netcoreapp3.1\Utils.dll
+C:\Users\kruger\Documents\Cristina\ZooApp\ZooServices\bin\Debug\netcoreapp3.1\DTO.pdb
+C:\Users\kruger\Documents\Cristina\ZooApp\ZooServices\bin\Debug\netcoreapp3.1\Utils.pdb
+C:\Users\kruger\Documents\Cristina\ZooApp\ZooServices\obj\Debug\netcoreapp3.1\ZooServices.csproj.CopyComplete
+C:\Users\kruger\Documents\Cristina\ZooApp\ZooServices\bin\Debug\netcoreapp3.1\ZooServices.runtimeconfig.json
+C:\Users\kruger\Documents\Cristina\ZooApp\ZooServices\bin\Debug\netcoreapp3.1\ZooServices.runtimeconfig.dev.json
+C:\Users\kruger\Documents\Cristina\ZooApp\ZooServices\obj\Debug\netcoreapp3.1\ZooServices.genruntimeconfig.cache
